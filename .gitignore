@@ -1,6 +1,7 @@
 SUPPLY CHAIN MANAGEMENT/
 ENTREPRENEURSHIP/
 CYBER-LAW-AND-ETHICS/
+node_modules/
 
 .DS_Store
 __pycache__/
