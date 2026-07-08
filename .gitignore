@@ -1,0 +1,8 @@
+SUPPLY CHAIN MANAGEMENT/
+ENTREPRENEURSHIP/
+CYBER-LAW-AND-ETHICS/
+
+.DS_Store
+__pycache__/
+*.log
+.vscode/
