@@ -5,4 +5,4 @@ CYBER-LAW-AND-ETHICS/
 .DS_Store
 __pycache__/
 *.log
-.vscode/
+.vscode/node_modules/
